@@ -176,7 +176,7 @@ def halvesies(number_list):
 
     return cut_in_half
 
-    # Took about 10-20 minutes since I ditched it and came back later before it could work
+    # Took about 10-20 minutes after coming back to this one later before it could work
 
 def word_lengths(word_list):
     """Return the length of words in the input list.
@@ -305,7 +305,7 @@ def average(number_list):
     else:
         return "You gotta give me numbers bruh"
 
-    # Ditched after 5-10 min, then took about 5-10 more minutes to finish
+    # Cam back after 5-10 min, then took about 5-10 more minutes to finish
 
 def join_strings_with_comma(list_of_words):
     """Return ['list', 'of', 'words'] like "list, of, words".
